@@ -1,6 +1,1 @@
-Library
-*.csproj
-*.sln
-*.unitypackage
-*.userprefs
-obj
+.DS_Store
